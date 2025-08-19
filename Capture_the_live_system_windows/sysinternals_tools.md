@@ -37,5 +37,5 @@ We can go to specific procees and further analyse it.
 <img width="490" height="649" alt="Screenshot from 2025-08-19 12-14-14" src="https://github.com/user-attachments/assets/00f43d31-bf9e-4393-9d42-5c4a46688457" />
 
 
-
+sds
 
