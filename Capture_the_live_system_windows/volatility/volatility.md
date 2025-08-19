@@ -40,3 +40,9 @@ This is the process that was determined malicious by the malfind.
 
 <img width="925" height="697" alt="Screenshot from 2025-08-19 16-49-14" src="https://github.com/user-attachments/assets/d284e92a-a2eb-4f0f-8551-babfbbedb382" />
 
+# Memmory map
+
+We can view the entire memorymap
+
+<img width="697" height="638" alt="Screenshot from 2025-08-19 16-59-21" src="https://github.com/user-attachments/assets/e3353941-b690-4b8b-830b-72cdb18cd0b2" />
+
