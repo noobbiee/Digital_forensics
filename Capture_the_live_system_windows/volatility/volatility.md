@@ -16,3 +16,27 @@ We can check all the process that were running during the time of the memory dum
 
 <img width="884" height="484" alt="Screenshot from 2025-08-19 16-22-26" src="https://github.com/user-attachments/assets/85c20ef7-1a1d-4327-9691-a910c2e14b29" />
 
+# Malfind
+
+We can run the dump and try to find the malware, it has the hashes of the known malware and tries to match the hash to find malwares.
+
+<img width="896" height="398" alt="Screenshot from 2025-08-19 16-38-49" src="https://github.com/user-attachments/assets/40eada54-79f8-4265-bff1-4266d3523e1f" />
+
+<img width="896" height="398" alt="Screenshot from 2025-08-19 16-39-03" src="https://github.com/user-attachments/assets/0f0a9c35-96dc-4216-a80d-42551b2b0f45" />
+
+<img width="891" height="446" alt="Screenshot from 2025-08-19 16-39-15" src="https://github.com/user-attachments/assets/f25de026-f23e-4221-bb09-80db8bcf9e2f" />
+
+It says that there are two malware on Searchapp.exe on process 5960. It is giving us the hex of the file and assembly codes.
+
+# Process tree
+
+We can see the all process running along with the child process on the system
+
+<img width="954" height="646" alt="Screenshot from 2025-08-19 16-45-21" src="https://github.com/user-attachments/assets/f3c44071-35e4-4045-ae38-2d2f55429d72" />
+
+<img width="1139" height="719" alt="Screenshot from 2025-08-19 16-45-44" src="https://github.com/user-attachments/assets/a04aac39-7254-494f-9bb5-b9da4b9e448a" />
+
+This is the process that was determined malicious by the malfind. 
+
+<img width="925" height="697" alt="Screenshot from 2025-08-19 16-49-14" src="https://github.com/user-attachments/assets/d284e92a-a2eb-4f0f-8551-babfbbedb382" />
+
