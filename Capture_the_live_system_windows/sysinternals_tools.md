@@ -36,6 +36,7 @@ We can go to specific procees and further analyse it.
 
 <img width="490" height="649" alt="Screenshot from 2025-08-19 12-14-14" src="https://github.com/user-attachments/assets/00f43d31-bf9e-4393-9d42-5c4a46688457" />
 
+<img width="490" height="649" alt="Screenshot from 2025-08-19 12-16-50" src="https://github.com/user-attachments/assets/6b31f3aa-884a-4a9f-b9ce-c5ca99266594" />
 
-sds
+<img width="490" height="649" alt="Screenshot from 2025-08-19 12-16-59" src="https://github.com/user-attachments/assets/eaf34c7a-ad58-4e86-9078-67914431b55d" />
 
