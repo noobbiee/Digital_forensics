@@ -46,3 +46,26 @@ We can view the entire memorymap
 
 <img width="697" height="638" alt="Screenshot from 2025-08-19 16-59-21" src="https://github.com/user-attachments/assets/e3353941-b690-4b8b-830b-72cdb18cd0b2" />
 
+# windows registry hivelist
+
+We can see the registry in the memory dump that we captured. 
+
+<img width="896" height="474" alt="Screenshot from 2025-08-19 18-45-00" src="https://github.com/user-attachments/assets/8808ba21-3e86-4454-8d6d-12545209c784" />
+
+<img width="898" height="205" alt="Screenshot from 2025-08-19 18-45-29" src="https://github.com/user-attachments/assets/fab9b4b2-0262-4c15-a31c-ecbd424195eb" />
+
+# certificates
+
+We can check all the certifiactes that were in memeory during dump.
+
+<img width="893" height="420" alt="Screenshot from 2025-08-20 10-32-24" src="https://github.com/user-attachments/assets/617e937d-c773-478a-8a34-49dd71ed8182" />
+
+<img width="887" height="443" alt="Screenshot from 2025-08-20 10-32-34" src="https://github.com/user-attachments/assets/b4653350-9187-4454-a388-217651b65767" />
+
+<img width="887" height="443" alt="Screenshot from 2025-08-20 10-32-44" src="https://github.com/user-attachments/assets/c0e6a465-d821-4828-b87d-e4abc3f325ee" />
+
+
+
+
+
+
