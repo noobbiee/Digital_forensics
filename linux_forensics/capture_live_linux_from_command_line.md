@@ -44,7 +44,11 @@ We can see all the kernel modules
 
 <img width="725" height="87" alt="Screenshot from 2025-08-24 20-58-06" src="https://github.com/user-attachments/assets/75472385-3737-4d85-8026-8dcdfaf26ad8" />
 
+# history
 
+<img width="805" height="378" alt="Screenshot from 2025-08-24 21-01-07" src="https://github.com/user-attachments/assets/b9be22a5-5c1e-46ac-8b66-de92b054d415" />
+
+<img width="805" height="378" alt="Screenshot from 2025-08-24 21-03-30" src="https://github.com/user-attachments/assets/9e547fc4-3312-48e2-a26f-1b3caf17c6af" />
 
 
 
