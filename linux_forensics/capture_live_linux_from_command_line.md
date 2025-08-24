@@ -34,6 +34,23 @@ We can see all the kernel modules
 
 <img width="858" height="394" alt="Screenshot from 2025-08-24 20-47-16" src="https://github.com/user-attachments/assets/15f6df6a-219f-4bd4-b750-8ba4bb9f65f8" />
 
+# passwd & shadow
+
+<img width="858" height="394" alt="Screenshot from 2025-08-24 20-49-28" src="https://github.com/user-attachments/assets/d3e01965-5c5d-49ac-bb48-01814aa93451" />
+
+<img width="844" height="269" alt="Screenshot from 2025-08-24 20-54-30" src="https://github.com/user-attachments/assets/a5bd2819-bf13-4208-84aa-d75966e85529" />
+
+<img width="782" height="447" alt="Screenshot from 2025-08-24 20-57-37" src="https://github.com/user-attachments/assets/d5627660-7fab-4125-bb81-bbb03980223b" />
+
+<img width="725" height="87" alt="Screenshot from 2025-08-24 20-58-06" src="https://github.com/user-attachments/assets/75472385-3737-4d85-8026-8dcdfaf26ad8" />
+
+
+
+
+
+
+
+
 
 
 
