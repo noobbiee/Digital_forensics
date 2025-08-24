@@ -1,4 +1,4 @@
-We will try to capture all the activities that are taking place during the time of acquistion.
+We will try to capture all the activities that are taking place during the time of acquistion. We will save all the results on a file and transfer it to our main machine for analysis.
 
 # netstat
 
