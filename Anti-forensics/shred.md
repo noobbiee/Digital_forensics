@@ -14,6 +14,11 @@ we have overwritten the contents of the file 10 times
 
 This is what happened to the file after we used shred on it.
 
+```
+sudo shred -z /home/kali/digital_forensics/evidence.log
+```
+We overwrites the log file with random data and write zeros into the whole file delteting the presense of any activities.
+
 <img width="904" height="161" alt="Screenshot from 2025-08-19 08-14-32" src="https://github.com/user-attachments/assets/81fe2a2b-0ff5-42bf-88e8-fe01f08e2e68" />
 
 We can hide the shredding by overwritting the file with zero.
