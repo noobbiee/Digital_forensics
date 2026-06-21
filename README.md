@@ -24,6 +24,9 @@ dcfldd is a forensics tool used to create bit-for-bit image of a drive while gen
 Notes: After acquiring the disk image; the best practice is to always store the original and create another copy for
 analysis to prevent any contamination of the evidence.
 
+see 
+dcfldd.md 
+
 # 2. Evidence analysis with autopsy
 
 Autopsy is used to anayse the forensic image of the USB drive. The lab demonstrates how to load an image file, browse the full file system, identify file types, and recover deleted files for further analysis.
@@ -48,6 +51,7 @@ Notes: When the system is live, the decryption key is loaded in the RAM or memor
 # 7. Anti-forensics
 
 Covers techniques used to hide, alter or destroy evidence that are used in the wild.
+
 
 # Disclaimer
 This lab is built entirely for educational purposes in an isolated, controlled environment. All techniques demonstrated here are performed on systems and media owned and controlled by the author. Performing forensic or offensive techniques on systems without explicit authorisation is illegal and unethical.
