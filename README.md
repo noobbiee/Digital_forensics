@@ -30,14 +30,18 @@ see  [`dcfldd.md`](dcfldd.md) for walkthrough
 
 Autopsy is used to anayse the forensic image of the USB drive. The lab demonstrates how to load an image file, browse the full file system, identify file types, and recover deleted files for further analysis.
 
-see 
+see [`autopsy.md`](autopsy.md) for walkthrough
 
 # 3. FTK Imager
 FTK Imager is used for forensic image acquisition and initial evidence preview. It provides a fast way to verify image integrity and preview file content without altering the original evidence.
 
+see [`ftk_imager.md`](ftk_imager.md) for walkthrough.
+
 # 4. Browser Forensics
 
 Covers the extraction and analysis of browser artefacts including browsing history, download records, cookies and cached files. These artefacts can reveal user activity and timelines critical to an investigation.
+
+see [`Chrome.md`](Browser_forensic/Chrome.md)
 
 # 5. Linux forensics
 
