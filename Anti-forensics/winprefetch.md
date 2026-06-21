@@ -2,5 +2,5 @@ We can turn off the prefetch for the windows so no information is collected by t
 
 <img width="916" height="723" alt="Screenshot from 2025-08-20 12-26-37" src="https://github.com/user-attachments/assets/300b9448-d323-4310-a6e3-e37945479a5d" />
 
-We can turn off the sysmain, but it will slow down our system.
-
+# Disclaimer
+Turning off the sysmain drastically slows down the system.
