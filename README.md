@@ -17,30 +17,30 @@ This repository documents a practical digital frensics lab built to simulate rea
 
 # Topics Covered 
 
-1. Disk Imaging with dcfldd
+# 1. Disk Imaging with dcfldd
 dcfldd is a forensics tool used to create bit-for-bit image of a drive while generating a hash log to verify and protect the integerity of the acquired image.
 
 Notes: After acquiring the disk image; the best practice is to always store the original and create another copy for
 analysis to prevent any contamination of the evidence.
 
-2. Evidence analysis with autopsy
+# 2. Evidence analysis with autopsy
 Autopsy is used to anayse the forensic image of the USB drive. The lab demonstrates how to load an image file, browse the full file system, identify file types, and recover deleted files for further analysis.
 
-3. FTK Imager
+# 3. FTK Imager
 FTK Imager is used for forensic image acquisition and initial evidence preview. It provides a fast way to verify image integrity and preview file content without altering the original evidence.
 
-4. Browser Forensics
+# 4. Browser Forensics
 Covers the extraction and analysis of browser artefacts including browsing history, download records, cookies and cached files. These artefacts can reveal user activity and timelines critical to an investigation.
 
-5. Linux forensics
+# 5. Linux forensics
 Forensic analysis techniques appilied to linux systems, including file system examination, log analysis, and artefact recovery.
 
-6. Live system capture (windows and linux)
+# 6. Live system capture (windows and linux)
 Documents the process of ccapturing a live windows and linux system's volatitle data - including running processes, network connections, memory - before powering down where the data would be lost.
 
 Notes: When the system is live, the decryption key is loaded in the RAM or memory.
 
-7. Anti-forensics
+# 7. Anti-forensics
 Covers techniques used to hide, alter or destroy evidence that are used in the wild.
 
 # Disclaimer
