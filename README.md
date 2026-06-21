@@ -24,13 +24,13 @@ dcfldd is a forensics tool used to create bit-for-bit image of a drive while gen
 Notes: After acquiring the disk image; the best practice is to always store the original and create another copy for
 analysis to prevent any contamination of the evidence.
 
-see  [`dcfldd.md`](dcfldd.md) for walkthrough
+see  [`dcfldd.md`](dcfldd.md) for walkthrough.
 
 # 2. Evidence analysis with autopsy
 
 Autopsy is used to anayse the forensic image of the USB drive. The lab demonstrates how to load an image file, browse the full file system, identify file types, and recover deleted files for further analysis.
 
-see [`autopsy.md`](autopsy.md) for walkthrough
+see [`autopsy.md`](autopsy.md) for walkthrough.
 
 # 3. FTK Imager
 FTK Imager is used for forensic image acquisition and initial evidence preview. It provides a fast way to verify image integrity and preview file content without altering the original evidence.
@@ -41,23 +41,30 @@ see [`ftk_imager.md`](ftk_imager.md) for walkthrough.
 
 Covers the extraction and analysis of browser artefacts including browsing history, download records, cookies and cached files. These artefacts can reveal user activity and timelines critical to an investigation.
 
-see [`Chrome.md`](Browser_forensic/Chrome.md)
+see [`Chrome.md`](Browser_forensic/Chrome.md) for walkthrough.
 
 # 5. Linux forensics
 
 Forensic analysis techniques appilied to linux systems, including file system examination, log analysis, and artefact recovery.
 
-see [`linux_forensics`](linux_forensics)
+see [`linux_forensics`](linux_forensics) for linux forensics walkthrough.
 
 # 6. Live system capture (windows and linux)
 
 Documents the process of ccapturing a live windows and linux system's volatitle data - including running processes, network connections, memory - before powering down where the data would be lost.
+
+see [`capture_the_memory.md`](linux_forensics/memory_forensics/capture_the_memory.md) to see walkthrough for how capture raw memory of linux and see [`capture_live_linux_from_command_line.md`](linux_forensics/capture_live_linux_from_command_line.md) for command line capture
+
+see [`Capture_the_live_system_windows`](Capture_the_live_system_windows) for windows memory capture.
+
 
 Notes: When the system is live, the decryption key is loaded in the RAM or memory.
 
 # 7. Anti-forensics
 
 Covers techniques used to hide, alter or destroy evidence that are used in the wild.
+
+see [`Anti-forensics`](Anti-forensics) for anti-forensics techniques.
 
 
 # Disclaimer
