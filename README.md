@@ -25,7 +25,7 @@ Notes: After acquiring the disk image; the best practice is to always store the 
 analysis to prevent any contamination of the evidence.
 
 see 
-(./Digital_forensics/dcfldd.md)
+(./Digital_forensics/dcfldd.md)!
 
 # 2. Evidence analysis with autopsy
 
