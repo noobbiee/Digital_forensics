@@ -24,12 +24,13 @@ dcfldd is a forensics tool used to create bit-for-bit image of a drive while gen
 Notes: After acquiring the disk image; the best practice is to always store the original and create another copy for
 analysis to prevent any contamination of the evidence.
 
-see 
-[`dcfldd.md`](dcfldd.md)
+see  [`dcfldd.md`](dcfldd.md) for walkthrough
 
 # 2. Evidence analysis with autopsy
 
 Autopsy is used to anayse the forensic image of the USB drive. The lab demonstrates how to load an image file, browse the full file system, identify file types, and recover deleted files for further analysis.
+
+see 
 
 # 3. FTK Imager
 FTK Imager is used for forensic image acquisition and initial evidence preview. It provides a fast way to verify image integrity and preview file content without altering the original evidence.
