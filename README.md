@@ -47,6 +47,8 @@ see [`Chrome.md`](Browser_forensic/Chrome.md)
 
 Forensic analysis techniques appilied to linux systems, including file system examination, log analysis, and artefact recovery.
 
+see [`linux_forensics`](linux_forensics)
+
 # 6. Live system capture (windows and linux)
 
 Documents the process of ccapturing a live windows and linux system's volatitle data - including running processes, network connections, memory - before powering down where the data would be lost.
